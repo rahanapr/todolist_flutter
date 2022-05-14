@@ -1,15 +1,21 @@
 # todolistapp
 
-A new Flutter project.
+A simple todo list app using Flutter with Firebase <img width="30" src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png"/>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Make sure to complete [Flutter installation](https://docs.flutter.dev/get-started/install)
 
-A few resources to get you started if this is your first Flutter project:
+**Packages we are using:**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- firebase_core : [link](https://pub.dev/packages/firebase_core)
+- cloud_firestore : [link](https://pub.dev/packages/cloud_firestore)
+
+ ### todolist App UI
+
+ <img width="250" src="/todolistscreen.png" alt="todolistapp Screenshot"/>
+
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
